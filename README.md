@@ -1,144 +1,112 @@
-# Hi there 👋
-I'm Tharuka Deshann — professional software engineer, open-source contributor, and an enthusiast for building reliable, maintainable full‑stack systems.
+# Hi there 👋 I'm Tharuka Deshann
+
+🎓 IT & Management — University of Moratuwa • 💻 Software Developer • 🤖 Data & AI Enthusiast
+
+---
+
+<!-- Animated typing header (animated SVG - types lines one after another) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00BFFF&center=true&width=880&height=90&lines=Passionate+about+Data+analytics+and+Machine+Learning;Software+developer;Adaptable+to+new+technologies" alt="Typing animation"/>
+</p>
 
 ---
 
 ## About Me
-- 🔭 I build scalable web applications, backend services, and developer tooling.
-- 🌱 Currently exploring cloud-native architectures, observability, and improving developer experience.
-- 💬 Ask me about API design, backend systems, testing strategies, and automation.
-- ⚡ Fun fact: I love turning repetitive tasks into small CLI tools and CI automations.
+
+- 🎓 Currently pursuing an IT & Management degree at the University of Moratuwa  
+- 🧠 Building AI / data-driven applications and models for real-world problems  
+- 📊 Passionate about data analytics, machine learning, and backend development  
+- 🔧 Exploring AI tools, data engineering, and DevOps to ship robust systems  
 
 ---
 
-## Skills & Tech Stack
-Primary Languages
-- JavaScript (most used) • TypeScript • Python • Dart • Java • C# • PHP • Ballerina
+## Languages & Tools
 
-Frontend & Mobile
-- Next.js, React, Flutter (Dart)
+Programming Languages
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+- ![C](https://img.shields.io/badge/C-2F5AA6?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-Backend & APIs
-- Spring Boot (Java), Laravel (PHP), Node.js
+Frameworks & Libraries
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Ballerina](https://img.shields.io/badge/Ballerina-2C7CBF?style=for-the-badge) 
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-DevOps & Infra
-- Docker / Dockerfiles, containerization patterns, GitHub Actions (CI/CD)
+Web Technologies
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-Databases & Data
-- PostgreSQL, Redis
+Databases
+- ![Azure MySQL](https://img.shields.io/badge/Azure_MySQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-Testing & Quality
-- Unit & integration tests, automated pipelines, logging & observability
+Cloud & DevOps
+- ![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Soft Skills
-- Code reviews, documentation, mentoring, cross-team collaboration
-
----
-
-## Featured Projects
-(Links go to the repositories you provided)
-
-- Travel Management System — https://github.com/TharukaDeshann/Travel_Management_System  
-  Description: Second-year project — travel/booking management system.  
-  Tech: JavaScript (frontend), Java (backend), CSS.  
-  Notes: Good demonstration of full-stack design and integrating Java services with a JS UI.
-
-- rentMe — https://github.com/TharukaDeshann/rentMe  
-  Description: Local vehicle rental platform for Sri Lanka. Frontend with Next.js, backend with Spring Boot.  
-  Tech: Dockerfile, TypeScript, Java, CSS.  
-  Notes: Containerized multi-service app showcasing deployment and environment configuration.
-
-- citrus — https://github.com/TharukaDeshann/citrus  
-  Description: Multi-language project combining TypeScript and C#.  
-  Tech: TypeScript, C#.  
-  Notes: Illustrates cross-stack integration and typed frontend/backend components.
-
-- Laravel_project — https://github.com/TharukaDeshann/Laravel_project  
-  Description: Backend for a transportation-related web application built using Laravel.  
-  Tech: JavaScript, PHP.  
-  Notes: Focus on robust API endpoints, authentication, and server-side logic.
-
-- servease-backend — https://github.com/ServEase-EAD/servease-backend (contributed)  
-  Description: Backend service primarily built with Python.  
-  Tech: Python, Dockerfile.  
-  Notes: Backend-centric contributions, container-ready.
-
-- lawlink-app — https://github.com/Tsar-CSX469/lawlink-app (collaboration)  
-  Description: Flutter mobile app to help users navigate legal scenarios with multilingual AI assistance.  
-  Tech: Dart (Flutter), TypeScript, native modules (C++).  
-  Notes: Mobile + AI assistant integration, localization-first design.
-
-- iwb236-scriptrippers — https://github.com/VinukaVilhan/iwb236-scriptrippers (collaboration)  
-  Description: App developed for the Ballerina Competition.  
-  Tech: JavaScript, Ballerina, CSS.  
-  Notes: Competition project demonstrating cross-technology experimentation.
+Tools & Design
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-## Aggregated Languages & Exact Ranking (repo-weighted)
-Method: each repository provided counts equally (simple repo-weighted average of per-repo language compositions). This gives a view of language emphasis across your active repositories.
+## GitHub Activity & Live Metrics
 
-Ranked languages (average percent across the 7 repos):
-1. JavaScript — 30.3%  
-2. Python — 13.7%  
-3. Dart — 12.6%  
-4. TypeScript — 12.3%  
-5. Java — 6.8%  
-6. C# — 6.3%  
-7. Dockerfile — 5.8%  
-8. PHP — 5.2%  
-9. CSS — 3.0%  
-10. Ballerina — 2.9%  
-11. C++ — 0.5%  
-12. CMake — 0.4%  
-13. Other — 0.1%  
-14. HTML — 0.1%  
-15. Swift — 0.1%  
-16. C — 0.0% (≈0.03%)
+<!-- Dynamic profile / metrics cards (these are live and update automatically) -->
 
-Interpretation:
-- JavaScript is clearly the dominant language across your projects (front-end and full‑stack work).
-- You have strong activity in backend languages and frameworks (Python, Java, PHP) and significant mobile work with Dart/Flutter.
-- TypeScript and Docker (Dockerfile) show a strong presence — good for modern full-stack and deployable services.
-- If you'd like a byte-size weighted chart (files/bytes instead of per-repo averaging) I can compute that if you grant access or supply per-repo byte counts. The repo-weighted view is often useful to surface where your attention is spread across projects.
+<p align="center">
+  <!-- Main GitHub stats card (shows total stars, commits, PRs in the profile card) -->
+  <a href="https://github.com/TharukaDeshann">
+    <img alt="Tharuka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TharukaDeshann&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" />
+  </a>
+  &nbsp;
+  <!-- Top languages (live) -->
+  <a href="https://github.com/TharukaDeshann">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukaDeshann&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
+</p>
 
----
+<p align="center">
+  <!-- Profile details card (aggregates followers, stars, commits, PRs, issues where supported) -->
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharukaDeshann&theme=tokyonight" />
+  &nbsp;
+  <!-- Contribution graph (live) -->
+  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=TharukaDeshann&theme=react-dark" />
+</p>
 
-## GitHub Stats & Badges
-Add these to your README to show dynamic stats (replace username if needed):
+### Live metric badges (quick single-line badges)
+- Total stars (all repos):  
+  <img src="https://github-readme-stats.vercel.app/api?username=TharukaDeshann&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=tokyonight&card_width=250" alt="Total Stars card" />
 
-- GitHub stats  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TharukaDeshann&show_icons=true&theme=radical)
+- Followers & Repositories (shields badges):
+  <img src="https://img.shields.io/github/followers/TharukaDeshann?label=Followers&style=flat-square&color=blue" alt="Followers" /> 
+  <img src="https://img.shields.io/github/repos/TharukaDeshann?style=flat-square&color=informational" alt="Repositories" />
 
-- Top languages  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharukaDeshann&layout=compact&theme=radical)
+- Profile views (live):
+  <img src="https://komarev.com/ghpvc/?username=TharukaDeshann&color=blue" alt="Profile views" />
 
-- Contribution graph  
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TharukaDeshann&theme=react-dark)
-
-Tip: to show private contributions and full commit counts add a GitHub token as described in the github-readme-stats docs and use count_private=true.
+Note: some single-number metrics (like total commits / total PRs / total issues across all repos) are not provided directly as single-number public endpoints by GitHub; the cards above aggregate and display those counts where available. If you want separate single-number badges for Commits / PRs / Issues / Contributed Repos, I can wire a small serverless JSON endpoint (or a GitHub Action that generates a small JSON file in your repo) and point shields.io's dynamic endpoint at it to render fully live single-value badges.
 
 ---
 
-## Contribution Highlights (based on provided repos)
-- Active across a mix of personal projects and collaborations (full‑stack web apps, backend services, mobile apps).
-- Work often involves: API design, service integration (Spring Boot, Laravel), containerization, and developer experience improvements.
-- Typical contribution style: focused PRs with tests and clear documentation.
+## Let's Connect
 
-If you want, I can fetch live metrics (stars, forks, issues, PR counts, contribution streak) for each repo and embed them in the Featured Projects section — I'll need read access or you can grant a short-lived token so I can call the GitHub API to pull exact numbers.
-
----
-
-## Contact
-- 📫 Email: your.email@example.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/yourprofile  
-- 🐦 Twitter: https://twitter.com/yourhandle  
-- 🌐 Portfolio: https://your-site.example
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TharukaDeshann)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TharukaDeshann@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharukaDeshann)
 
 ---
-
-Thanks for the repo list — I filled Featured Projects with concrete links and descriptions from the repos you provided, and computed an exact repo-weighted language ranking. If you'd like, next I can:
-- Fetch and embed live metrics (stars, forks, open issues, PRs) for each repo, or
-- Recompute the language breakdown using byte-size weighting (needs repo byte counts / API access).
-
-Which one should I do next? I can fetch live metrics now if you provide a token or allow read access.
