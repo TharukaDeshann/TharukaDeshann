@@ -99,10 +99,6 @@ Tools & Design
 - Profile views (live):
   <img src="https://komarev.com/ghpvc/?username=TharukaDeshann&color=blue" alt="Profile views" />
 
-Note: some single-number metrics (like total commits / total PRs / total issues across all repos) are not provided directly as single-number public endpoints by GitHub; the cards above aggregate and display those counts where available. If you want separate single-number badges for Commits / PRs / Issues / Contributed Repos, I can wire a small serverless JSON endpoint (or a GitHub Action that generates a small JSON file in your repo) and point shields.io's dynamic endpoint at it to render fully live single-value badges.
-
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharuka-deshan-847586279/)  
