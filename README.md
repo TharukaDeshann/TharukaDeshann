@@ -1,108 +1,92 @@
-# Hi there 👋 I'm Tharuka Deshann
+# Hi — I'm Tharuka Deshann 👋
 
 🎓 IT & Management — University of Moratuwa • 💻 Software Developer • 🤖 Data & AI Enthusiast
 
 ---
 
-<!-- Animated typing header (animated SVG - types lines one after another) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00BFFF&center=true&width=880&height=90&lines=Passionate+about+Data+analytics+and+Machine+Learning;Software+developer;Adaptable+to+new+technologies" alt="Typing animation"/>
 </p>
 
 ---
 
-## About Me
+## About me
+I build data-driven applications and models that solve real problems. Currently studying IT & Management at the University of Moratuwa, I enjoy working across backend systems, analytics, and ML pipelines. I focus on writing clean code, iterating quickly, and shipping reliable services.
 
-- 🎓 Currently pursuing an IT & Management degree at the University of Moratuwa  
-- 🧠 Building AI / data-driven applications and models for real-world problems  
-- 📊 Passionate about data analytics, machine learning, and backend development  
-- 🔧 Exploring AI tools, data engineering, and DevOps to ship robust systems  
-
----
-
-## Languages & Tools
-
-Programming Languages
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-- ![C](https://img.shields.io/badge/C-2F5AA6?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-Frameworks & Libraries
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Ballerina](https://img.shields.io/badge/Ballerina-2C7CBF?style=for-the-badge) 
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-Web Technologies
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
-Databases
-- ![Azure MySQL](https://img.shields.io/badge/Azure_MySQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-- ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-Cloud & DevOps
-- ![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-Tools & Design
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+What I love:
+- Turning data into insights using practical ML and analytics
+- Designing backend systems and APIs
+- Learning new tools in cloud, DevOps, and MLOps
 
 ---
 
-## GitHub Activity & Live Metrics
+## What I build
+- Production-ready backend APIs and microservices
+- Data pipelines and ETL flows for analytics and ML
+- Prototypes and ML models for real-world problems
 
-<!-- Dynamic profile / metrics cards (these are live and update automatically) -->
+---
 
+## Skills & Technologies
+
+Core languages:
+- Java • C • C++ • Python • JavaScript • PHP
+
+Frameworks & libraries:
+- Spring Boot • Django • Laravel • Ballerina • React • Next.js • Flutter
+
+Databases & data:
+- MySQL (Azure) • PostgreSQL • MongoDB • Firestore • MSSQL
+
+Cloud & DevOps:
+- Azure AI • Docker • Git
+
+Design & tools:
+- Figma • Arduino
+
+(Visit my profile for live metrics and top languages.)
+
+---
+
+## Selected projects
+Below are a few places to start — pin projects in your profile or link specific repos here.
+
+- Project A — short 1‑line description of what it does and the tech used.  
+- Project B — one sentence describing the goal and outcome.  
+- Project C — prototype or demo with a link and short summary.
+
+Tip: Replace the placeholders above with direct repo links and a short one-line outcome (e.g., “reduced latency by 30%”, “classifies X with Y% accuracy”).
+
+---
+
+## GitHub metrics (live)
 <p align="center">
-  <!-- Main GitHub stats card (shows total stars, commits, PRs in the profile card) -->
   <a href="https://github.com/TharukaDeshann">
-    <img alt="Tharuka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TharukaDeshann&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TharukaDeshann&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   </a>
   &nbsp;
-  <!-- Top languages (live) -->
   <a href="https://github.com/TharukaDeshann">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukaDeshann&layout=compact&langs_count=8&theme=tokyonight" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukaDeshann&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
 </p>
 
-<p align="center">
-  <!-- Profile details card (aggregates followers, stars, commits, PRs, issues where supported) -->
-  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharukaDeshann&theme=tokyonight" />
-  &nbsp;
-  <!-- Contribution graph (live) -->
-  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=TharukaDeshann&theme=react-dark" />
-</p>
+---
 
-### Live metric badges (quick single-line badges)
-- Total stars (all repos):  
-  <img src="https://github-readme-stats.vercel.app/api?username=TharukaDeshann&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=tokyonight&card_width=250" alt="Total Stars card" />
-
-- Followers & Repositories (shields badges):
-  <img src="https://img.shields.io/github/followers/TharukaDeshann?label=Followers&style=flat-square&color=blue" alt="Followers" /> 
-  <img src="https://img.shields.io/github/repos/TharukaDeshann?style=flat-square&color=informational" alt="Repositories" />
-
-- Profile views (live):
-  <img src="https://komarev.com/ghpvc/?username=TharukaDeshann&color=blue" alt="Profile views" />
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharuka-deshan-847586279/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TharukaDeshan574@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharukaDeshann)
+## Quick links
+- LinkedIn: https://www.linkedin.com/in/tharuka-deshan-847586279/  
+- Email: TharukaDeshan574@gmail.com  
+- GitHub: https://github.com/TharukaDeshann
 
 ---
+
+## How to use this README
+- Replace project placeholders with actual repo links and short outcomes.  
+- Keep the "What I build" section focused on outcomes (what you solve) rather than tools.  
+- Pin 3–6 most relevant repositories in your GitHub profile for easy discoverability.
+
+If you'd like, I can:
+- Fill the "Selected projects" section with real repo links and concise descriptions (I can fetch repo info if you want me to), or
+- Produce a shorter "resume-style" README for recruiters, or
+- Generate social media banner text and suggestions for profile pictures.
+
+Let's pick one and I’ll update the README accordingly.
