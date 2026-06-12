@@ -95,22 +95,6 @@ I build data-driven applications and models that solve real problems. Currently 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharukaDeshann&theme=tokyonight&hide_border=true" width="49%"/>
-# Hi — I'm Tharuka Deshann 👋
-
-🎓 IT & Management — University of Moratuwa • 💻 Software Developer • 🤖 Data & AI Enthusiast
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00BFFF&center=true&width=880&height=90&lines=Passionate+about+Data+analytics+and+Machine+Learning;Software+developer;Adaptable+to+new+technologies" alt="Typing animation"/>
-</p>
-
----
-
-## About me
-I build data-driven applications and models that solve real problems. Currently studying IT & Management at the University of Moratuwa, I enjoy working across backend systems, analytics, and ML pipelines. I focus on writing clean code, iterating quickly, and shipping reliable services.
-
-What I love:
 
 </div>
 
@@ -118,6 +102,6 @@ What I love:
 
 <div align="center">
 
-💬 *Open to internships, collaborations, and interesting data/ML projects — feel free to reach out!*
+💬 *Open to collaborations, and interesting data/ML projects — feel free to reach out!*
 
 </div>
