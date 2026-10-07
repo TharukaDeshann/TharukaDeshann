@@ -75,16 +75,6 @@ I build data-driven applications and models that solve real problems. Currently 
 
 ---
 
-### 📌 Selected Projects
-
-> Pin your top repos here with concise outcomes.
-
-- **[Project Name](#)** — One-line description (e.g., "Real-time fraud detection model with 92% accuracy")
-- **[Project Name](#)** — One-line description (e.g., "Microservice reducing API latency by 30%")
-- **[Project Name](#)** — One-line description (e.g., "Flutter app with offline-first sync")
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
